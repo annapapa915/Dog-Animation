@@ -1,2 +1,2 @@
 # Dog-Animation
-Simple animal animations made in OpenGL
+Simple animal animations, made in OpenGL
